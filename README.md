@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Terraform Modular Approach**
 
-- 🌱 I’m currently learning **AWS Certifications**
+- 🌱 I’m currently learning  **AWS Certifications Certifications**
 
 - 👯 I’m looking to collaborate on **Terraform, Kubernetes ,Azure and AWS**
 
