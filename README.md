@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Francis Delgado</h1>
-<h3 align="left">Cloud Infrastructure Enthusiast from Manila, Philippines</h3>
+<h3 align="left">Cloud  Enthusiast from Manila, Philippines</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=redn1x&label=Profile%20views&color=0e75b6&style=flat" alt="redn1x" /> </p>
 
