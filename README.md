@@ -10,7 +10,7 @@ Beyond my technical skills, I am well-versed in cloud security and assist my com
 
 To aid in visualizing and communicating infrastructure design and dependencies, I use Draw.io to create AWS architecture diagrams. This practice enhances team efficiency and helps ensure projects are delivered on time, within budget, and to the highest quality.
 
-I am currently working with STG, focused on delivering high-quality, scalable solutions.
+I am currently working with STG, focused on delivering high-quality, scalable cloud solutions.
 
 </p>
 
