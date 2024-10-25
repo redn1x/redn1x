@@ -1,13 +1,23 @@
 <h1 align="left">Hi 👋, I'm Francis Delgado</h1>
-<h3 align="left">A passionate Cloud Engineer from the Manila, Philippines</h3>
+<h3 align="left">Cloud Infrastructure Enthusiast from Manila, Philippines</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=redn1x&label=Profile%20views&color=0e75b6&style=flat" alt="redn1x" /> </p>
 
-- 🔭 I’m currently working on **Terraform Modular Approach**
+<p align="left">
+I am a Cloud Infrastructure Engineer with expertise in deploying and managing infrastructure using HashiCorp Terraform, Kubernetes, Python, and Jenkins. I am proficient in AWS services, including CloudWatch, S3, DynamoDB, EKS, VPC, EC2, IAM (Users & Roles), Lambda, and serverless architecture. Additionally, I have strong skills in Python and Linux, with hands-on experience in widely-used scripts for cloud infrastructure tasks.
 
-- 🌱 I’m currently learning  **AWS Certifications Certifications**
+Beyond my technical skills, I am well-versed in cloud security and assist my company with ISO 27001 compliance. I also bring extensive knowledge of the AWS and Azure Well-Architected Framework.
 
-- 👯 I’m looking to collaborate on **Terraform, Kubernetes ,Azure and AWS**
+To aid in visualizing and communicating infrastructure design and dependencies, I use Draw.io to create AWS architecture diagrams. This practice enhances team efficiency and helps ensure projects are delivered on time, within budget, and to the highest quality.
+
+I am currently working with STG, focused on delivering high-quality, scalable solutions.
+
+</p>
+
+
+- 🌱 I’m currently taking  **AWS Certifications Certifications**
+
+- 👯 I’m looking to collaborate on **Terraform, Python Kubernetes ,Azure and AWS**
 
 - 💬 Ask me about **Python, Terraform , Azure and AWS**
 
