@@ -14,18 +14,19 @@ I am currently working with STG, focused on delivering high-quality, scalable so
 
 </p>
 
+##Skills and Experience: 
+* ⛈ AWS,Azure
+* 💻 Microsoft 365
+* 🖱 Terraform
+* ⌨ Ansible, Jenkins, Docker,Kubenetes , Bash,Python,Terraform
 
-- 🌱 I’m currently taking  **AWS Certifications Certifications**
-
-- 👯 I’m looking to collaborate on **Terraform, Python Kubernetes ,Azure and AWS**
-
+- 🔭 I’m currently working on AWS Certifications Certifications and Automation
+- 🌱 I’m currently learning Databricks 
+- 👯 I’m looking to collaborate on Cloud Computing 
+- 📫 How to reach me francis.delgado01@gmail.com
 - 💬 Ask me about **Python, Terraform , Azure and AWS**
-
-- 📫 How to reach me **francis.delgado01@gmail.com**
-
 - 📄 Know about my experiences [https://www.linkedin.com/in/manuelfrancisdelgado05/](https://www.linkedin.com/in/manuelfrancisdelgado05/)
-
-- ⚡ Fun fact **I enjoy riding my motorcyle**
+- ⚡ Fun fact I enjoy riding my motorcyle
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
