@@ -15,9 +15,9 @@ I am currently working with STG, focused on delivering high-quality, scalable so
 </p>
 
 ## Skills and Experience: 
-* ⛈ AWS,Azure
+* ⛈ AWS and Azure
 * 💻 Microsoft 365
-* 🖱 Terraform
+* 🖱 Linux and Windows servers
 * ⌨ Ansible, Jenkins, Docker,Kubenetes , Bash,Python,Terraform
 
 ## Currently:
