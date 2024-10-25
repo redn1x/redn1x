@@ -22,8 +22,8 @@ I am currently working with STG, focused on delivering high-quality, scalable so
 
 ## Currently:
 
-- 🔭 I’m currently working on AWS Certifications Certifications and Automation
-- 🌱 I’m currently learning Databricks 
+- 🔭 I’m working on AWS Certifications Certifications and Automation
+- 🌱 I’m learning Databricks 
 - 👯 I’m looking to collaborate on Cloud Computing 
 - 📫 How to reach me francis.delgado01@gmail.com
 - 💬 Ask me about Python, Terraform , Azure and AWS
